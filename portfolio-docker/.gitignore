@@ -1,0 +1,5 @@
+.idea
+/portfolio-backend/temp
+/portfolio-frontend/temp
+/portfolio
+portfolio-docker.iml

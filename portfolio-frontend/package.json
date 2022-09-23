@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-frontend",
+  "homepage": "./",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "axios": "^0.27.2",
+    "events": "^3.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.3.1",
+    "react-toastify": "^9.0.5",
+    "swiper": "^8.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.4",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.0"
+  }
+}
